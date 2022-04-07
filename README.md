@@ -1,4 +1,3 @@
-# ![](astronaut.jpeg)
 # 👋 Hi, I’m @zhangzheheng12345. 
 - 👀 I’m interested in Go, C++, Python, Haskell and dev tools making.
 - 🌱 I’m currently learning what I'm interested in.
