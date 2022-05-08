@@ -11,6 +11,8 @@ I look forward to be a programmer in the future, so now I'm making efforts.
 
 ### flowscript
 
+![FlowScript!](imgs/flowscript.png)
+
 [Github Repo](https://github.com/zhangzheheng12345/flowscript)
 
 A embed interpreter of a special functional language of **FlowScript** (created by myself) written in Go.
@@ -35,6 +37,7 @@ fibonacci 1 1
 ### visual-brainfuck-web
 
 [Github Repo](https://github.com/zhangzheheng12345/visual-brainfuck-web)
+
 [Github Page](https://zhangzheheheng12345.github.io/visual-brainfuck-web) **<-- Have a try!**
 
 A online brainfuck interpreter with a real-time visual memory.
@@ -45,6 +48,8 @@ I don't use web frameworks like React, Vue, or Svelte because this is a very sim
 This project is written in jQuery & MVC architecture.
 
 ### Lightest
+
+![Lightest](imgs/lightest.png)
 
 [Github Repo](https://github.com/zhangzheheng12345/Lightest)
 
