@@ -43,9 +43,8 @@ fibonacci 1 1
 A online brainfuck interpreter with a real-time visual memory.
 
 I have once a lover of Brainfuck, so I started this project to debug Brainfuck easier.
-I don't use web frameworks like React, Vue, or Svelte because this is a very simple project and also because I can't master any of them.
 
-This project is written in jQuery & MVC architecture.
+This project is written in Vue.
 
 ### Lightest
 
