@@ -1,3 +1,15 @@
+<style>
+a {
+  background-color:#223;
+  padding:5px;
+  padding-left:10px;
+  padding-right:10px;
+  border-radius:5px;
+  color:#fff;
+  text-decoration:none;
+}
+</style>
+
 # 👋 Hi, I’m @zhangzheheng12345
 
 I'm a beginner & lover of programming, and a junior high school student.
@@ -5,7 +17,7 @@ I look forward to be a programmer in the future, so now I'm making efforts.
 
 ## Interest
 
-👀 I’m interested in Go, C++, HTML & JavaScript & CSS, Python, Haskell, Brainfuck (just for fun) and dev tools making.
+👀 I’m interested in Go, C++, HTML & JavaScript & CSS & Vue, Python, Haskell, Brainfuck (just for fun) and dev tools making.
 
 ## Projects
 
@@ -35,6 +47,8 @@ fibonacci 1 1
 ```
 
 ### visual-brainfuck-web
+
+![visual-brainfuck-web!](imgs/vbfweb.jpeg)
 
 [Github Repo](https://github.com/zhangzheheng12345/visual-brainfuck-web)
 
