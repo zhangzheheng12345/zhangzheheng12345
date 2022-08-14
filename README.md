@@ -40,7 +40,7 @@ fibonacci 1 1
 
 [Github Repo](https://github.com/zhangzheheng12345/visual-brainfuck-web)
 
-[Github Page](https://zhangzheheheng12345.github.io/visual-brainfuck-web) **<-- Have a try!**
+[Github Page](https://visual-brainfuck-web.vercel.app) **<-- Have a try!**
 
 A online brainfuck interpreter with a real-time visual memory.
 
