@@ -1,15 +1,3 @@
-<style>
-a {
-  background-color:#223;
-  padding:5px;
-  padding-left:10px;
-  padding-right:10px;
-  border-radius:5px;
-  color:#fff;
-  text-decoration:none;
-}
-</style>
-
 # 👋 Hi, I’m @zhangzheheng12345
 
 I'm a beginner & lover of programming, and a junior high school student.
