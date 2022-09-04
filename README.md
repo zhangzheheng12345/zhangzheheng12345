@@ -58,6 +58,14 @@ A extremely light & header-only C++ unit test library. (It requires C++11)
 
 The library includes all the basic features of a unit test library, such as test definitions, assertions, and pretty output formatting.
 
+### birthday-count-downer
+
+[Github Repo](https://github.com/zhangzheheng12345/birthday-count-downer)
+
+[Github Page](https://zhangzheheng12345.github.io/bcd) **<-- Have a try!**
+
+A simple birthday count downer machine written in Vue.
+
 ## Data
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangzheheng12345&layout=compact)](https://github.com/zhangzheheng12345/github-readme-stats)
