@@ -11,8 +11,6 @@ I look forward to be a programmer in the future, so now I'm making efforts.
 
 ### flowscript
 
-![FlowScript!](imgs/flowscript.png)
-
 [Github Repo](https://github.com/zhangzheheng12345/flowscript)
 
 A embed interpreter of a special functional language of **FlowScript** (created by myself) written in Go.
@@ -36,7 +34,7 @@ fibonacci 1 1
 
 ### visual-brainfuck-web
 
-![visual-brainfuck-web!](imgs/vbfweb.jpeg)
+![Website Image](https://s1.ax1x.com/2022/09/11/vO6sHJ.jpg)
 
 [Github Repo](https://github.com/zhangzheheng12345/visual-brainfuck-web)
 
@@ -50,7 +48,7 @@ This project is written in Vue.
 
 ### Lightest
 
-![Lightest](imgs/lightest.png)
+![Lightest](https://s1.ax1x.com/2022/09/11/vO6YAs.png)
 
 [Github Repo](https://github.com/zhangzheheng12345/Lightest)
 
