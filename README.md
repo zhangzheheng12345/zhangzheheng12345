@@ -34,7 +34,7 @@ fibonacci 1 1
 
 ### visual-brainfuck-web
 
-![Website Image](https://s1.ax1x.com/2022/09/11/vO6sHJ.jpg)
+![Website image](https://s1.ax1x.com/2022/12/19/zqRsw8.jpg)
 
 [Github Repo](https://github.com/zhangzheheng12345/visual-brainfuck-web)
 
@@ -57,6 +57,8 @@ A extremely light & header-only C++ unit test library. (It requires C++11)
 The library includes all the basic features of a unit test library, such as test definitions, assertions, and pretty output formatting.
 
 ### birthday-count-downer
+
+![Website Image](https://s1.ax1x.com/2022/09/12/vXu5QO.png)
 
 [Github Repo](https://github.com/zhangzheheng12345/birthday-count-downer)
 
