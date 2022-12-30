@@ -9,6 +9,16 @@ I look forward to be a programmer in the future, so now I'm making efforts.
 
 ## Projects
 
+### Lightest
+
+![Lightest](https://s1.ax1x.com/2022/09/11/vO6YAs.png)
+
+[Github Repo](https://github.com/zhangzheheng12345/Lightest)
+
+A extremely light & header-only C++ unit test library. (It requires C++11)
+
+The library includes all the basic features of a unit test library, such as test definitions, assertions, and pretty output formatting.
+
 ### flowscript
 
 [Github Repo](https://github.com/zhangzheheng12345/flowscript)
@@ -42,19 +52,9 @@ fibonacci 1 1
 
 A online brainfuck interpreter with a real-time visual memory.
 
-I have once a lover of Brainfuck, so I started this project to debug Brainfuck easier.
+I am a lover of Brainfuck, so I started this project to debug Brainfuck easier.
 
-This project is written in Vue.
-
-### Lightest
-
-![Lightest](https://s1.ax1x.com/2022/09/11/vO6YAs.png)
-
-[Github Repo](https://github.com/zhangzheheng12345/Lightest)
-
-A extremely light & header-only C++ unit test library. (It requires C++11)
-
-The library includes all the basic features of a unit test library, such as test definitions, assertions, and pretty output formatting.
+This project is written in Vue3.
 
 ### birthday-count-downer
 
@@ -64,7 +64,7 @@ The library includes all the basic features of a unit test library, such as test
 
 [Github Page](https://zhangzheheng12345.github.io/bcd) **<-- Have a try!**
 
-A simple birthday count downer machine written in Vue.
+A simple birthday count downer machine written in Vue3.
 
 ## Data
 
