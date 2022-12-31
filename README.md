@@ -11,8 +11,6 @@ I look forward to be a programmer in the future, so now I'm making efforts.
 
 ### Lightest
 
-![Lightest](https://s1.ax1x.com/2022/09/11/vO6YAs.png)
-
 [Github Repo](https://github.com/zhangzheheng12345/Lightest)
 
 A extremely light & header-only C++ unit test library. (It requires C++11)
