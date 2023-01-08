@@ -1,11 +1,11 @@
-# 👋 Hi, I’m @zhangzheheng12345
+# 👋 Hi, I’m Zheheng Zhang
 
 I'm a beginner & lover of programming, and a junior high school student.
 I look forward to be a programmer in the future, so now I'm making efforts.
 
 ## Interest
 
-👀 I’m interested in Go, C++, HTML & JavaScript & CSS & Vue, Python, Haskell, Brainfuck (just for fun) and dev tools making.
+👀 I’m interested in Go, C++, HTML & JavaScript & CSS & Typescript & Vue (in short that's front end tech), Python, Haskell, Brainfuck (just for fun) and dev tools making.
 
 ## Projects
 
@@ -13,7 +13,7 @@ I look forward to be a programmer in the future, so now I'm making efforts.
 
 [Github Repo](https://github.com/zhangzheheng12345/Lightest)
 
-A extremely light & header-only C++ unit test library. (It requires C++11)
+An extremely light, header-only but meanwhile string, flexible and customizable C++ unit test library. (C++11 required)
 
 The library includes all the basic features of a unit test library, such as test definitions, assertions, and pretty output formatting.
 
@@ -21,7 +21,7 @@ The library includes all the basic features of a unit test library, such as test
 
 [Github Repo](https://github.com/zhangzheheng12345/flowscript)
 
-A embed interpreter of a special functional language of **FlowScript** (created by myself) written in Go.
+An embed interpreter of a special functional language of **FlowScript** (created by myself) written in Go.
 
 This is my largest project (still it's small and simple).
 I started it for learning interpreter & compiler technology, practising Go, and for fun.
@@ -48,7 +48,7 @@ fibonacci 1 1
 
 [Github Page](https://visual-brainfuck-web.vercel.app) **<-- Have a try!**
 
-A online brainfuck interpreter with a real-time visual memory.
+An online brainfuck interpreter with a real-time visual memory.
 
 I am a lover of Brainfuck, so I started this project to debug Brainfuck easier.
 
