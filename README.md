@@ -1,7 +1,7 @@
 # Hi! I'm Zheheng Zhang!
 
 Glad to meet you!
-I'm a lover of programming & open source, and a junior high school student.
+I'm a lover of programming & open source, and a senior high school student.
 
 ## My Personal Website
 
